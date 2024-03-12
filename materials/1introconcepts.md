@@ -15,7 +15,7 @@ The purpose of Enterprise Architecture is to optimize across the enterprise the 
 - Better return on existing investment, reduced risk for future investment
 - Faster, simpler, and cheaper procurement
 
-### What are the benefits of an Enterprise Architecture?
+### What specifically would prompt the development of an Enterprise Architecture?
 - Business-driven initiatives to enable business transformation; for example, to leverage digital services and products as revenue generating assets
 - Technology-driven initiatives for efficiency and cost reduction; for example, technology consolidation initiatives, where the consolidation destination can be physical, virtual, or a combination
 - Merger or acquisition, where the return on investment is only realized after technology efficiencies are realized
@@ -48,6 +48,9 @@ The scope and structure of the materials that make up the TOGAF Standard
 The scope and structure of the TOGAF Library
 2. [Core Concepts](https://pubs.opengroup.org/togaf-standard/introduction/chap03.html#tag_03) describes the core concepts that are used across the components of the TOGAF Standard
 3. [Definitions](https://pubs.opengroup.org/togaf-standard/introduction/chap04.html#tag_04) contains definitions of terms that are used consistently across the components of the TOGAF Standard
-A. [Referenced Documents](https://pubs.opengroup.org/togaf-standard/introduction/apdxa.html#tag_05) contains a list of documents referenced in the TOGAF Standard
-B. [Glossary of Supplementary Definitions](https://pubs.opengroup.org/togaf-standard/introduction/apdxb.html#tag_06) contains a supplementary list of definitions of terms that may be encountered when reading the materials that make up the TOGAF Standard
-C. [Abbreviations](https://pubs.opengroup.org/togaf-standard/introduction/apdxc.html#tag_07) contains a list of commonly used abbreviations
+
+    A. [Referenced Documents](https://pubs.opengroup.org/togaf-standard/introduction/apdxa.html#tag_05) contains a list of documents referenced in the TOGAF Standard
+
+    B. [Glossary of Supplementary Definitions](https://pubs.opengroup.org/togaf-standard/introduction/apdxb.html#tag_06) contains a supplementary list of definitions of terms that may be encountered when reading the materials that make up the TOGAF Standard
+    
+    C. [Abbreviations](https://pubs.opengroup.org/togaf-standard/introduction/apdxc.html#tag_07) contains a list of commonly used abbreviations
